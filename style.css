@@ -1,0 +1,25 @@
+body{
+    background-color: #dfddc7;
+    /* background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147)); */
+}
+h1,h2,h3{
+    /* color: rgb(34, 206, 228); */
+    color: #2f0c0c;
+}
+a{
+    color: #3a1111;
+}
+p,li{
+    color: #2f0c0c;
+}
+hr{
+    /* background-color: #eaf6f6; */
+    border-style: dotted none none;
+    border-color:#a34a28;
+    border-width: 5px;
+    /* height: 0px; */
+    /* default height is 0 */
+}
+.star{
+    color: rgb(203, 173, 0);
+}
